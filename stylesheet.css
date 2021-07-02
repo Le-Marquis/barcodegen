@@ -1,0 +1,10 @@
+div {
+    height: 400px;
+    width: 400px;
+
+    position: fixed;
+    top: 50%;
+    left: 46%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
